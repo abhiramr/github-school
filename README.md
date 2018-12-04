@@ -1,1 +1,1 @@
-# github-school
+- This is a repository to teach GIT commands.

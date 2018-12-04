@@ -1,1 +1,1 @@
-This is sample file #3 (modified).
+This is sample file #3.

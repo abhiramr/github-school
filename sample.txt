@@ -1,2 +1,6 @@
 This is a sample file.
+<<<<<<< 7264a0c2d1b280d5eddbacd3d458fd6138404c67
 Modified line.
+=======
+This is a change to the commit.
+>>>>>>> Modified on branch

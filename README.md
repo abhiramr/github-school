@@ -28,3 +28,4 @@
 ## Misc Notes / Comments - 
 
 - git log --oneline
+- git log --pretty=format:"%h - %an, %ar : %s"

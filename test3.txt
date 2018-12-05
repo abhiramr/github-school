@@ -3,8 +3,6 @@ line 2 of test3.txt
 line 3 of test3.txt
 line 4 of test3.txt
 line 5 of test3.txt
-modify 6
-
 
 
 

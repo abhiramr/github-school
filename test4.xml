@@ -1,0 +1,5 @@
+<project name ="First" default="t1">
+<target ="t1">
+<echo>Inside t1</echo>
+</target>
+</project>

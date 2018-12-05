@@ -12,6 +12,8 @@
 - reset
 - revert
 - log
+- remote
+- set-url
 
 ## Resources that will help (In no particular order)
 - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
@@ -28,4 +30,5 @@
 ## Misc Notes / Comments - 
 
 - git log --oneline
-- git log --pretty=format:"%h - %an, %ar : %s"
+- git log --pretty=format:"%h - %an, %ar : %s" (ar indicates relative author time of commit)
+- git log --pretty=format:"%h - %an, %ai : %s" (ai indicates exact author time of commit)

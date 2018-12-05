@@ -17,6 +17,7 @@
 - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
 - https://dev.to/neshaz/when-to-use-git-reset-git-revert--git-checkout-18je
 - https://sethrobertson.github.io/GitFixUm/fixup.html
+- http://sethrobertson.github.io/GitBestPractices/
 - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
 - https://backlog.com/git-tutorial/rewriting-history/git-revert/
 - https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333

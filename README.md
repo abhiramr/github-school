@@ -11,6 +11,7 @@
 - rebase
 - reset
 - revert
+- log
 
 ## Resources that will help
 - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
@@ -20,3 +21,8 @@
 - https://backlog.com/git-tutorial/rewriting-history/git-revert/
 
 - https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
+
+
+## Misc Notes / Comments - 
+
+- git log --oneline

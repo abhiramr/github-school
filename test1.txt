@@ -1,3 +1,4 @@
 line 1 of test1.txt
 line 2 of test1.txt
 line 3 of test1.txt
+line 4 of test1.txt

@@ -23,6 +23,7 @@
 - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
 - https://backlog.com/git-tutorial/rewriting-history/git-revert/
 - https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+- https://nathanleclaire.com/blog/2014/09/14/dont-be-scared-of-git-rebase/
 
 - https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
 
